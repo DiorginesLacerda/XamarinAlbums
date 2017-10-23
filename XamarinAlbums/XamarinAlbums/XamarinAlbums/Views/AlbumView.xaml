@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinAlbums.Layouts"
              x:Class="XamarinAlbums.Views.AlbumView">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin Forms!" />
-        </StackLayout>
-    </ContentPage.Content>
+
+    <ScrollView Margin="0,20,0,20">
+        <local:WrapLayout x:Name="wrapLayout"/>
+    </ScrollView>
 </ContentPage>

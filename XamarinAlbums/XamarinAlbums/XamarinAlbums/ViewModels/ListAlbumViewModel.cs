@@ -17,6 +17,22 @@ namespace XamarinAlbums.ViewModels
 
         public Command GetPhotosCommand { get; set; }
 
+        private Photo selectedAlbum;
+
+        public Photo SelectedAlbum
+        {
+            get { return selectedAlbum; }
+            set
+            {
+                selectedAlbum = value;
+                if (value != null)
+                    MessagingCenter.Send<ObservableCollection<Photo>>(GetAlbum(selectedAlbum), "SelectedAlbum");
+            }
+        }
+
+
+
+
         private bool busy;
 
         public bool IsBusy
@@ -66,6 +82,11 @@ namespace XamarinAlbums.ViewModels
                 }
             }
             return;
+        }
+
+        private ObservableCollection<Photo> GetAlbum(Photo photo)
+        {
+            return Albums[photo.albumId];
         }
 
         private void SetDataListAlbums()

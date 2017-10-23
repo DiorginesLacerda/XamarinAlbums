@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -28,18 +29,18 @@ namespace XamarinAlbums.Views
         protected async override void OnAppearing()
         {
             base.OnAppearing();
-          /*  MessagingCenter.Subscribe<List<Photo>>(this, "SelectedAlbum",
+            MessagingCenter.Subscribe<ObservableCollection<Photo>>(this, "SelectedAlbum",
                 (msg) =>
                 {
-                    Navigation.PushAsync(new AlbumView());
-                });*/
+                    Navigation.PushAsync(new AlbumView(msg));
+                });
             await this.ViewModel.GetAlbums();
         }
         
         protected override void OnDisappearing()
         {
             base.OnDisappearing();
-            MessagingCenter.Unsubscribe<List<Photo>>(this, "SelectedAlbum");
+            MessagingCenter.Unsubscribe<ObservableCollection<Photo>>(this, "SelectedAlbum");
         }
     }
 }

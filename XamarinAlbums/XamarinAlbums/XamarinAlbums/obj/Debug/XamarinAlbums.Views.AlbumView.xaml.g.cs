@@ -16,8 +16,12 @@ namespace XamarinAlbums.Views {
     public partial class AlbumView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::XamarinAlbums.Layouts.WrapLayout wrapLayout;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(AlbumView));
+            wrapLayout = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::XamarinAlbums.Layouts.WrapLayout>(this, "wrapLayout");
         }
     }
 }
