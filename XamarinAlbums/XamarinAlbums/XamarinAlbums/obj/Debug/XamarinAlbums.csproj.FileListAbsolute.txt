@@ -1,11 +1,12 @@
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.csproj.App.config
-C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.csprojResolveAssemblyReference.cache
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.MainPage.xaml.g.cs
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.App.xaml.g.cs
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.Views.AlbumView.xaml.g.cs
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.Views.ListAlbumView.xaml.g.cs
-C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.dll
-C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.pdb
+C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.Views.PhotoView.xaml.g.cs
+C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.Views.MenuView.xaml.g.cs
+C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.Views.MasterDetailView.xaml.g.cs
+C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.csprojResolveAssemblyReference.cache
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\bin\Debug\XamarinAlbums.dll.config
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\bin\Debug\XamarinAlbums.dll
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\bin\Debug\XamarinAlbums.pdb
@@ -24,6 +25,8 @@ C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAl
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\bin\Debug\Xamarin.Forms.Core.xml
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.Views.PhotoView.xaml.g.cs
-C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.Views.MenuView.xaml.g.cs
-C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.Views.MasterDetailView.xaml.g.cs
+C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.dll
+C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.pdb
+C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.Test.MasterDetailPage1.xaml.g.cs
+C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.Test.MasterDetailPage1Master.xaml.g.cs
+C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums\obj\Debug\XamarinAlbums.Test.MasterDetailPage1Detail.xaml.g.cs

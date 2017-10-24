@@ -35,12 +35,15 @@ namespace XamarinAlbums.Views
                     Navigation.PushAsync(new AlbumView(msg));
                 });
             await this.ViewModel.GetAlbums();
+           
+
         }
         
         protected override void OnDisappearing()
         {
             base.OnDisappearing();
             MessagingCenter.Unsubscribe<ObservableCollection<Photo>>(this, "SelectedAlbum");
+            MessagingCenter.Unsubscribe<ObservableCollection<ItemMenu>>(this, "UpdateList");
         }
     }
 }

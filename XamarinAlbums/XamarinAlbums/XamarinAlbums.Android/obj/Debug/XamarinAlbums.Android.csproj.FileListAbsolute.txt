@@ -1,4 +1,3 @@
-C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\XamarinAlbums.Android.csprojResolveAssemblyReference.cache
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\bin\Debug\XamarinAlbums.Android.dll.config
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\bin\Debug\XamarinAlbums.Android.dll
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\bin\Debug\XamarinAlbums.Android.pdb
@@ -32,6 +31,7 @@ C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAl
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\XamarinAlbums.Android.csprojResolveAssemblyReference.cache
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\XamarinAlbums.Android.dll
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\XamarinAlbums.Android.pdb
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\android\bin\XamarinAlbums.Android.apk
@@ -42,6 +42,7 @@ C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAl
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\res\layout\tabbar.xml
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\res\layout\toolbar.xml
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\res\values\styles.xml
+C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\res\drawable\splash_logo.png
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\R.cs.flag
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\uploadflags.txt
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\bin\Debug\XamarinAlbums.dll.mdb
@@ -52,4 +53,3 @@ C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAl
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\android\assets\XamarinAlbums.Android.dll.mdb
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\android\assets\XamarinAlbums.dll.mdb
-C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\res\drawable\splash_logo.png
