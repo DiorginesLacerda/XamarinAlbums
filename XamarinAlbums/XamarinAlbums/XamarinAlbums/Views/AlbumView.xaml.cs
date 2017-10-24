@@ -21,6 +21,7 @@ namespace XamarinAlbums.Views
             InitializeComponent();
             this.ViewModel = new AlbumViewModel(album);
             this.Title = String.Format("Album {0}",ViewModel.Photos.First().albumId);
+
         }
 
         protected override void OnAppearing()
@@ -29,9 +30,31 @@ namespace XamarinAlbums.Views
 
             foreach (var photo in this.ViewModel.Photos)
             {
-                var image = new Image();
-                image.Source = photo.thumbnailUrl;
-                this.wrapLayout.Children.Add(image);
+
+
+                var frame = new Frame
+                {
+                    Padding = 0,
+                    Content = new StackLayout
+                    {
+                        Margin = 0,
+                        VerticalOptions = LayoutOptions.FillAndExpand,
+                        HorizontalOptions = LayoutOptions.Center,
+                        
+                        Children =
+                        {
+                            new Image { Source = photo.thumbnailUrl,  },
+                            new Label
+                            {
+                                Text = photo.title,
+                                WidthRequest =  90,
+                                HeightRequest = 20,
+                                HorizontalOptions = LayoutOptions.Center
+                            }
+                        }
+                    },
+            };
+                this.wrapLayout.Children.Add(frame);
             }
         }
     }

@@ -15,11 +15,17 @@
                         <ViewCell.View>
                             <StackLayout Orientation="Horizontal">
                                 <Image Source="{Binding thumbnailUrl}"/>
-                                <Label Text="{Binding albumId}"
-                                   HorizontalOptions="CenterAndExpand"
+                                <Label Text="Album "
+                                   HorizontalOptions="Center"
                                    VerticalOptions="Center"
                                    FontSize="Large"
                                    FontAttributes="Bold"/>
+                                <Label Text="{Binding albumId}"
+                                   HorizontalOptions="Center"
+                                   VerticalOptions="Center"
+                                   FontSize="Large"
+                                   FontAttributes="Bold"/>
+                                
                             </StackLayout>
                         </ViewCell.View>
                     </ViewCell>
