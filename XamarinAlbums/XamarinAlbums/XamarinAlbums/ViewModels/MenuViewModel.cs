@@ -33,7 +33,14 @@ namespace XamarinAlbums.ViewModels
         {
             this.Items = new ObservableCollection<ItemMenu>(new[]
             {    
-                new ItemMenu{ Id = 1, Title = "Sair" }
+                new ItemMenu{ Id = 1, Title = "Item 1" },
+                new ItemMenu{ Id = 1, Title = "Item 2" },
+                new ItemMenu{ Id = 1, Title = "Item 3" },
+                new ItemMenu{ Id = 1, Title = "Item 4" },
+                new ItemMenu{ Id = 1, Title = "Item 5" },
+                new ItemMenu{ Id = 1, Title = "Item 6" },
+                new ItemMenu{ Id = 1, Title = "Item 7" },
+                new ItemMenu{ Id = 1, Title = "Item 8" }
             }); 
         }
 
