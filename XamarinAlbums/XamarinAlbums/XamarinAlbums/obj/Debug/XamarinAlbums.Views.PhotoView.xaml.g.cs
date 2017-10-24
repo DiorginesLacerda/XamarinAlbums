@@ -11,8 +11,8 @@
 namespace XamarinAlbums.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Diorgines\\Documents\\Visual Studio 2017\\Projects\\XamarinAlbums\\XamarinAlb" +
-        "ums\\XamarinAlbums\\XamarinAlbums\\Views\\PhotoView.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Diorgines\\Source\\Repos\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\Xamarin" +
+        "Albums\\Views\\PhotoView.xaml")]
     public partial class PhotoView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

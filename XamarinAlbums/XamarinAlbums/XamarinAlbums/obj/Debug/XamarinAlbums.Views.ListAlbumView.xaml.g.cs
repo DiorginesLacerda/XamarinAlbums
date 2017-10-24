@@ -11,8 +11,8 @@
 namespace XamarinAlbums.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Diorgines\\Documents\\Visual Studio 2017\\Projects\\XamarinAlbums\\XamarinAlb" +
-        "ums\\XamarinAlbums\\XamarinAlbums\\Views\\ListAlbumView.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Diorgines\\Source\\Repos\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\Xamarin" +
+        "Albums\\Views\\ListAlbumView.xaml")]
     public partial class ListAlbumView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

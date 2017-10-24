@@ -24534,16 +24534,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diorgines\\Documents\\Visual Studio 2017\\Projects\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums.UWP\\XamarinAlbums.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Diorgines\\Source\\Repos\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums.UWP\\XamarinAlbums.UWP.csproj",
       "projectName": "XamarinAlbums.UWP",
-      "projectPath": "C:\\Users\\Diorgines\\Documents\\Visual Studio 2017\\Projects\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums.UWP\\XamarinAlbums.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\Diorgines\\Documents\\Visual Studio 2017\\Projects\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums.UWP\\project.json",
+      "projectPath": "C:\\Users\\Diorgines\\Source\\Repos\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums.UWP\\XamarinAlbums.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\Diorgines\\Source\\Repos\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Users\\Diorgines\\Documents\\Visual Studio 2017\\Projects\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums.csproj": {
-              "projectPath": "C:\\Users\\Diorgines\\Documents\\Visual Studio 2017\\Projects\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums.csproj"
+            "C:\\Users\\Diorgines\\Source\\Repos\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums.csproj": {
+              "projectPath": "C:\\Users\\Diorgines\\Source\\Repos\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums\\XamarinAlbums.csproj"
             }
           }
         }
@@ -24553,7 +24553,7 @@
       "Microsoft.Net.Http": "2.2.29",
       "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
       "Newtonsoft.Json": "10.0.3",
-      "Xamarin.Forms": "[2.4.0.18342, )"
+      "Xamarin.Forms": "2.4.0.18342"
     },
     "frameworks": {
       "uap10.0": {}
