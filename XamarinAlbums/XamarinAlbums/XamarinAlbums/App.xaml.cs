@@ -13,8 +13,8 @@ namespace XamarinAlbums
         public App()
         {
             InitializeComponent();
-            MainPage = new NavigationPage(new ListAlbumView());
-            //MainPage = new XamarinAlbums.MainPage();
+            MainPage = new MasterDetailView();
+            
         }
 
         protected override void OnStart()

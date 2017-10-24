@@ -52,3 +52,4 @@ C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAl
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\android\assets\XamarinAlbums.Android.dll.mdb
 C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\android\assets\XamarinAlbums.dll.mdb
+C:\Users\Diorgines\Documents\Visual Studio 2017\Projects\XamarinAlbums\XamarinAlbums\XamarinAlbums\XamarinAlbums.Android\obj\Debug\res\drawable\splash_logo.png
