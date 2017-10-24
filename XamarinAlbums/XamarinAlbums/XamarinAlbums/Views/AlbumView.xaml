@@ -1,10 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:XamarinAlbums.Layouts"
+             
              x:Class="XamarinAlbums.Views.AlbumView">
 
-    <ScrollView Margin="0,20,0,20">
-        <local:WrapLayout x:Name="wrapLayout"/>
-    </ScrollView>
+
+    <ListView
+        x:Name="listViewPhoto"
+        SelectedItem="{Binding SelectedPhoto}"
+        Margin=" 10"
+        RowHeight ="170"
+        VerticalOptions="FillAndExpand">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell >
+                    <ViewCell.View >
+                        <Frame
+                            OutlineColor="Silver"
+                            VerticalOptions="Fill"
+                            Margin="10">
+                            <StackLayout>
+                                <Image Source="{Binding thumbnailUrl}"/>
+                                <Label Text="{Binding title} "
+                                   HorizontalOptions="Center"
+                                   VerticalOptions="Center"
+                                   />
+                            </StackLayout>
+                        </Frame>
+                    </ViewCell.View>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+
+    </ListView>
 </ContentPage>

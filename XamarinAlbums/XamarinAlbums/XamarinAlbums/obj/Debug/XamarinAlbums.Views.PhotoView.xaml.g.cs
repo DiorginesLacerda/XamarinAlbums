@@ -12,16 +12,12 @@ namespace XamarinAlbums.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Diorgines\\Documents\\Visual Studio 2017\\Projects\\XamarinAlbums\\XamarinAlb" +
-        "ums\\XamarinAlbums\\XamarinAlbums\\Views\\AlbumView.xaml")]
-    public partial class AlbumView : global::Xamarin.Forms.ContentPage {
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.ListView listViewPhoto;
+        "ums\\XamarinAlbums\\XamarinAlbums\\Views\\PhotoView.xaml")]
+    public partial class PhotoView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(AlbumView));
-            listViewPhoto = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ListView>(this, "listViewPhoto");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(PhotoView));
         }
     }
 }

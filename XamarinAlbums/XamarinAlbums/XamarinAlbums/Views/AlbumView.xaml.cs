@@ -20,42 +20,26 @@ namespace XamarinAlbums.Views
         {
             InitializeComponent();
             this.ViewModel = new AlbumViewModel(album);
+            this.BindingContext = this.ViewModel;
             this.Title = String.Format("Album {0}",ViewModel.Photos.First().albumId);
+            this.listViewPhoto.ItemsSource = this.ViewModel.Photos;
 
         }
 
         protected override void OnAppearing()
         {
             base.OnAppearing();
-
-            foreach (var photo in this.ViewModel.Photos)
-            {
-
-
-                var frame = new Frame
+            MessagingCenter.Subscribe<Photo>(this, "SelectedPhoto",
+                (msg)=>
                 {
-                    Padding = 0,
-                    Content = new StackLayout
-                    {
-                        Margin = 0,
-                        VerticalOptions = LayoutOptions.FillAndExpand,
-                        HorizontalOptions = LayoutOptions.Center,
-                        
-                        Children =
-                        {
-                            new Image { Source = photo.thumbnailUrl,  },
-                            new Label
-                            {
-                                Text = photo.title,
-                                WidthRequest =  90,
-                                HeightRequest = 20,
-                                HorizontalOptions = LayoutOptions.Center
-                            }
-                        }
-                    },
-            };
-                this.wrapLayout.Children.Add(frame);
-            }
+                    Navigation.PushAsync(new PhotoView(msg));
+                });
+        }
+
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+            MessagingCenter.Unsubscribe<Photo>(this, "SelectedPhoto");
         }
     }
 }
